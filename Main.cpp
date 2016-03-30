@@ -6,5 +6,6 @@ int main()
 	cout<<"Hola mundo\n";
 	cout<<"Tercer cambio\n";
 	cout<<"Cambio paralelo\n";
+	cout<<"Cuatro cambio\n";
 	return 0;
 }
