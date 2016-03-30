@@ -7,5 +7,6 @@ int main()
 	cout<<"Tercer cambio\n";
 	cout<<"Cambio paralelo\n";
 	cout<<"Cuatro cambio\n";
+	cout<<"Quinto cambio\n";
 	return 0;
 }
